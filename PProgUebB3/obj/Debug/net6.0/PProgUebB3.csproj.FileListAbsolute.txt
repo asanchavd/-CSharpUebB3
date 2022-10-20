@@ -1,0 +1,15 @@
+/Users/asanchavdarliev/workspace/th/c#Ueb/src/PProgUebB3/PProgUebB3/bin/Debug/net6.0/PProgUebB3
+/Users/asanchavdarliev/workspace/th/c#Ueb/src/PProgUebB3/PProgUebB3/bin/Debug/net6.0/PProgUebB3.deps.json
+/Users/asanchavdarliev/workspace/th/c#Ueb/src/PProgUebB3/PProgUebB3/bin/Debug/net6.0/PProgUebB3.runtimeconfig.json
+/Users/asanchavdarliev/workspace/th/c#Ueb/src/PProgUebB3/PProgUebB3/bin/Debug/net6.0/PProgUebB3.dll
+/Users/asanchavdarliev/workspace/th/c#Ueb/src/PProgUebB3/PProgUebB3/bin/Debug/net6.0/PProgUebB3.pdb
+/Users/asanchavdarliev/workspace/th/c#Ueb/src/PProgUebB3/PProgUebB3/obj/Debug/net6.0/PProgUebB3.csproj.AssemblyReference.cache
+/Users/asanchavdarliev/workspace/th/c#Ueb/src/PProgUebB3/PProgUebB3/obj/Debug/net6.0/PProgUebB3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asanchavdarliev/workspace/th/c#Ueb/src/PProgUebB3/PProgUebB3/obj/Debug/net6.0/PProgUebB3.AssemblyInfoInputs.cache
+/Users/asanchavdarliev/workspace/th/c#Ueb/src/PProgUebB3/PProgUebB3/obj/Debug/net6.0/PProgUebB3.AssemblyInfo.cs
+/Users/asanchavdarliev/workspace/th/c#Ueb/src/PProgUebB3/PProgUebB3/obj/Debug/net6.0/PProgUebB3.csproj.CoreCompileInputs.cache
+/Users/asanchavdarliev/workspace/th/c#Ueb/src/PProgUebB3/PProgUebB3/obj/Debug/net6.0/PProgUebB3.dll
+/Users/asanchavdarliev/workspace/th/c#Ueb/src/PProgUebB3/PProgUebB3/obj/Debug/net6.0/refint/PProgUebB3.dll
+/Users/asanchavdarliev/workspace/th/c#Ueb/src/PProgUebB3/PProgUebB3/obj/Debug/net6.0/PProgUebB3.pdb
+/Users/asanchavdarliev/workspace/th/c#Ueb/src/PProgUebB3/PProgUebB3/obj/Debug/net6.0/PProgUebB3.genruntimeconfig.cache
+/Users/asanchavdarliev/workspace/th/c#Ueb/src/PProgUebB3/PProgUebB3/obj/Debug/net6.0/ref/PProgUebB3.dll
